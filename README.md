@@ -1,7 +1,7 @@
 # Modelling conformational flexibility in a spectrally addressable multi-spin molecular qubit (JACS doi./)
 
-1) Raw Data
-   EDFS, Relaxation, DEER, RIDME data
+1) Raw Data<br />
+   EDFS, Relaxation, DEER, RIDME data<br />
 
 2) Make p-vector code 
    Three spin cone geometric cone model 
