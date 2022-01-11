@@ -1,4 +1,4 @@
-# Modelling conformational flexibility in a spectrally addressable multi-spin molecular qubit (JACS doi./)
+# Data and MATLAB scripts for JACS doi/10.1021/jacs.1c09xxx.
 
 ## 1) Raw Data 
     - This folder contains .DSC and .DTA files of the raw EPR data. <br /> 
