@@ -1,5 +1,4 @@
-# Modelling conformational flexibility in a spectrally addressable multi-spin molecular qubit 
-# JACS doi
+# Modelling conformational flexibility in a spectrally addressable multi-spin molecular qubit (JACS doi./)
 
 1) Raw Data
 
