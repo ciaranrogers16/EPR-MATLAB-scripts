@@ -1,13 +1,14 @@
-# Scripts-for-modelling-dipolar-EPR-data
+# Modelling conformational flexibility in a spectrally addressable multi-spin molecular qubit 
+# JACS doi
 
-Raw Data
+1) Raw Data
 
-Make Pvector code
+2) Make Pvector code
 
-oriDEERsim
+3) oriDEERsim
 
-Processing code
+4) Processing code
 
-Least squares fitting routine 
+5) Least squares fitting routine 
 
-Plotting to chimera
+6) Plotting to chimera
