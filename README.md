@@ -17,4 +17,4 @@
    - Calculation and plotting of best fitting p-vectors to the time domain data <br />
 
 6) Plotting to chimera <br />
-   - Script to take best fitting p-vectors for visualisation in chimera <br />
+   - Script to make .bild files of best fitting p-vectors for visualisation in chimera <br />
