@@ -3,9 +3,9 @@
 1) Raw Data <br />
    - EDFS, Relaxation, DEER, RIDME data <br />
 
-2) Make p-vector code <br />
+2) P-vector code <br />
    - Three spin cone geometric cone model <br />
-   - P-vector libraries<br />
+   - P-vector libraries <br />
 
 3) oriDEERsim code <br />
    - Simulation of orientation dependent dipolar interaction using a modified version of the code reported by Lovett et al. <br />
