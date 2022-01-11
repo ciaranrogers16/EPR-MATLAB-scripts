@@ -1,7 +1,7 @@
 # Modelling conformational flexibility in a spectrally addressable multi-spin molecular qubit (JACS doi./)
 
  1) Raw Data <br />
-    - This folder contains .DSC and .DTA files of the raw EPR data. <br />
+    - This folder contains .DSC and .DTA files of the raw EPR data. <br /> <br />
  2) P-vector <br />
     - This folder contains the code used to build the libraries of p-vectors describing the interactions in a three spin system. <br />
  3) Orientation dependent simulation <br />
