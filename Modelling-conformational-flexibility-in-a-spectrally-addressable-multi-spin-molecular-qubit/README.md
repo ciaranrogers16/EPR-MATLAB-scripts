@@ -1,14 +1,14 @@
 # Modelling conformational flexibility in a spectrally addressable multi-spin molecular qubit (JACS doi./)
 
- 1) Raw Data <br />
-    - This folder contains .DSC and .DTA files of the raw EPR data. <br /> <br />
- 2) P-vector <br />
+# 1) Raw Data <br />
+    - This folder contains .DSC and .DTA files of the raw EPR data. <br /> 
+# 2) P-vector <br />
     - This folder contains the code used to build the libraries of p-vectors describing the interactions in a three spin system. <br />
- 3) Orientation dependent simulation <br />
+# 3) Orientation dependent simulation <br />
     - This folder contains a modified version of the orientation dependent algorithm used to simulate dipolar spectra, originally reported by Lovett et al. <br />
- 4) Least squares fitting <br />
+# 4) Least squares fitting <br />
     - This folder contains the code for the least squares fitting routine used to identify the best fitting simulated data sets to the experimental data. <br />
- 5) Data processing <br />
+# 5) Data processing <br />
     - This folder contains the scripts used in the processing of the experimental and simulated EPR data. <br />
- 6) Plotting and visualisation <br />
+# 6) Plotting and visualisation <br />
     - This folder contains the scripts used to plot the EPR data and make .PDB and .BILD files for visualisation of data in Chimera
