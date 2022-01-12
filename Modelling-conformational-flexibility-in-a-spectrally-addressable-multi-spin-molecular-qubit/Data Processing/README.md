@@ -1,2 +1,2 @@
 # MATLAB Data Processing Scripts
-- Requirements:<\br> MATLAB <\br> Easyspin (free available at easyspin.org) <\br>
+- Requirements: MATLAB, Easyspin (free available at easyspin.org)
