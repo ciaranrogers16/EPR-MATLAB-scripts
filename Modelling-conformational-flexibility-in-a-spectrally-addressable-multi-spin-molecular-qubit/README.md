@@ -5,7 +5,7 @@
 ## P-vector <br />
 - This folder contains the code used to build the libraries of p-vectors describing the interactions in a three spin system. <br />
 ## Orientation dependent simulation <br />
-- This folder contains a modified version of the orientation dependent algorithm used to simulate dipolar spectra, originally reported by Lovett et al. <br />
+- This folder contains a modified version of the orientation dependent algorithm used to simulate dipolar spectra, originally reported by Lovett et al. *doi.org/10.1039/b907010a* <br />
 ## Least squares fitting <br />
 - This folder contains the code for the least squares fitting routine used to identify the best fitting simulated data sets to the experimental data. <br />
 ##  Data processing <br />
