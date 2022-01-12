@@ -1,1 +1,1 @@
-- Algorithm to simulate orientation dependent time and frequency domain dipolar spectra from a library of given p-vectors including various dependencies. Adapted from the algorithm reported by Lovett et al. doi.org/10.1039/b907010a.
+- Algorithm to simulate orientation dependent time and frequency domain dipolar spectra from a library of given p-vectors including various dependencies. Adapted from the algorithm reported by Lovett et al. *doi.org/10.1039/b907010a*
