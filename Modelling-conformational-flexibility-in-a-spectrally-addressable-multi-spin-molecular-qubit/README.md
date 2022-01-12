@@ -11,4 +11,4 @@
 ##  Data processing <br />
 - This folder contains the scripts used in the processing of the experimental and simulated EPR data. <br />
 ##  Plotting and visualisation <br />
-- This folder contains the scripts used to plot the EPR data and make .PDB and .BILD files for visualisation of data in Chimera
+- This folder contains the scripts used to plot the EPR data and make .pdb and .bild files for visualisation of data in Chimera
