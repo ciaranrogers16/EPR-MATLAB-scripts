@@ -1,1 +1,1 @@
-
+- Requirements: MATLAB, Easyspin (free available at easyspin.org), UCSF Chimera (free available at cgl.ucsf.edu/chimera/download.html)
