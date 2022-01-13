@@ -1,5 +1,5 @@
 %% Least squares fitting of simulated data to experimental data
-% NO - Cr7Ni ring RIDME simulations - DA340
+% NO - Cu RIDME simulations - DA340
 %
 % Please ensure the subfolders ./Simulations and ./Simulations_for_fitting
 % exist prior to running
@@ -380,7 +380,7 @@ hold on
 plot(T1,E1,'k')
 plot(T1,BEST1)
 
-xlabel('Time / µs')
+xlabel('Time / Âµs')
 ylabel('Intensity')
 legend('Experimental Cu-NO RIDME, 6 K','Best fit')
 f=make_plot_nice_FormFactor(f);
