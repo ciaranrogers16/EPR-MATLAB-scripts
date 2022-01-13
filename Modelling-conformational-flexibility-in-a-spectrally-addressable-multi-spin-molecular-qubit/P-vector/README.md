@@ -1,1 +1,1 @@
-
+- Requirements: MATLAB, Easyspin (free available at easyspin.org)
