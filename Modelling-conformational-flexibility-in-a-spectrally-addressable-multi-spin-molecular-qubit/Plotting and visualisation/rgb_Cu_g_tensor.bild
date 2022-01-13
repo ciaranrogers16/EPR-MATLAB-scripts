@@ -1,0 +1,5 @@
+.comment -- This file shows X,Y,Z axes as red, green, blue arrows --
+.comment -- Edit "translate" and "scale" values to adjust offset and size --
+.scale 1 
+.color 0.0 0.0 1.0
+.arrow 0 0 0 0 0 -5 
