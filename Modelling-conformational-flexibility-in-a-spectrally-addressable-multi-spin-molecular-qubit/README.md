@@ -1,4 +1,4 @@
-# Data and MATLAB scripts for *doi/10.1021/jacs.xxxxxxx.*
+# Data and MATLAB scripts for *doi/*
 
 ## Raw Data 
 - This folder contains .DSC and .DTA files of the raw EPR data. <br /> 
