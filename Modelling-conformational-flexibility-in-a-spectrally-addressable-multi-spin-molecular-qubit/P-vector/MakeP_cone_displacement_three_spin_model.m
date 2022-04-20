@@ -145,7 +145,7 @@ input.Cu.vec = ring_Cu_vec;
 
 %% Calcualte cones
 % First cone - NO
-cone_angle = 34; % set the angle of the cone to sample in degrees
+cone_angle = 15; % set the angle of the cone to sample in degrees
 grid_size = 31; %set the gride size (no of knots)
 r_vary = 0.5; % set variation in r in nm
 vary_percone_r = 1; % number of length variations per cone positon
