@@ -1,1 +1,1 @@
-- Raw data files and MATLAB scripts used in the processing, simulation and plotting of EPR data in published works
+- Raw data files and MATLAB scripts used in the processing, simulation and plotting of EPR data in published/working papers.
